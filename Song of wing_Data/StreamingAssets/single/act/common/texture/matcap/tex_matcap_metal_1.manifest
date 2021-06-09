@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3413976509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98aa84a249417a5cd82fb8a3ecf10bcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/chara_01/ACTCommon/Texture/MATCAP/TEX_Matcap_Metal_1.tga
+Dependencies: []

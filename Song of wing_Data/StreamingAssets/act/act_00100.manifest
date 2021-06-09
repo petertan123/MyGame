@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 197464678
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0f1653736fbd0604d3f8ef38722269f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 361a875239e8ffeb92a8e1c73440aa2a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11c970424c2dd2c40b1b2d04d4d49938, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/chara_01/Unique/00100/Mesh/JNT_00100_anathema_H.fbx
+- Assets/chara_01/Unique/00100/Texture/TEX_00100_anathema_WPN_H_M.tga
+- Assets/chara_01/Unique/00100/Texture/TEX_00100_anathema_WPN_H_D.tga
+- Assets/chara_01/Unique/00100/Texture/TEX_00100_anathema_H_D.tga
+- Assets/chara_01/Unique/00100/Motion/AS_00100_anathema_idle_01.anim
+- Assets/chara_01/Unique/00100/Prefab/ACT_00100.prefab
+- Assets/chara_01/Unique/00100/Texture/TEX_00100_anathema_H_M.tga
+Dependencies:
+- D:/unity project/New game/Assets/StreamingAssets/act/material/mat_m_00100_anathema_h_base
+- D:/unity project/New game/Assets/StreamingAssets/act/act_00099_00100_anathema
+- D:/unity project/New game/Assets/StreamingAssets/act/material/mat_m_00100_anathema_h_wpn

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 347704756
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc99d0a837f67dc382449d3439f1cd50
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c99c86a43ad817b2cb7f65458ae090
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/chara_01/ACTCommon/Effect/Material/Ef_mt_shockwave_add.mat
+Dependencies:
+- D:/unity project/New game/Assets/StreamingAssets/single/act/common/effect/texture/ef_tx_shockwave

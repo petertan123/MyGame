@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1795613855
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44d4bee5e631fcd6c918ebcf32934767
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e775733b6f302c2c339f87c1fecdb736
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 11c970424c2dd2c40b1b2d04d4d49938, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/chara_03/Unique/00480/Mesh/JNT_00480_ion_H.fbx
+- Assets/chara_03/Unique/00480/Prefab/ACT_00480.prefab
+Dependencies:
+- D:/unity project/New game/Assets/StreamingAssets/act/act_00479_00480_ion
+- D:/unity project/New game/Assets/StreamingAssets/act/material/mat_m_00480_ion_h_base
+- D:/unity project/New game/Assets/StreamingAssets/act/material/mat_m_00480_ion_h_alpha

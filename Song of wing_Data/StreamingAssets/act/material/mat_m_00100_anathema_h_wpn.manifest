@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1627881488
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6f5ce084477d55ad5356f373ce5f3a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c99c86a43ad817b2cb7f65458ae090
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/chara_01/Material/M_00100_anathema_H_WPN.mat
+Dependencies:
+- D:/unity project/New game/Assets/StreamingAssets/single/act/common/texture/matcap/tex_matcap_toon_1
+- D:/unity project/New game/Assets/StreamingAssets/act/act_00100
+- D:/unity project/New game/Assets/StreamingAssets/single/act/common/texture/matcap/tex_matcap_metal_1
+- D:/unity project/New game/Assets/StreamingAssets/single/act/common/texture/bayerdithermatrix

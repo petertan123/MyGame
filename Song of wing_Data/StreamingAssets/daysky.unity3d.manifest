@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4240203559
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d6b89e9e769fbd2b01e89df309d4c56
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 10a6a558690295dadb3dd990eda0821a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/skybox/IL3DN_Sky_Procedural.mat
+Dependencies: []

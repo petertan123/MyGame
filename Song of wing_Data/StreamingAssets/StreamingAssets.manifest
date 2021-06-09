@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 2069524053
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: single/act/common/effect/material/ef_mt_shockwave_add
+      Dependencies:
+        Dependency_0: single/act/common/effect/texture/ef_tx_shockwave
+    Info_1:
+      Name: single/act/common/texture/matcap/tex_matcap_toon_1
+      Dependencies: {}
+    Info_2:
+      Name: act/act_00100
+      Dependencies:
+        Dependency_0: act/material/mat_m_00100_anathema_h_base
+        Dependency_1: act/act_00099_00100_anathema
+        Dependency_2: act/material/mat_m_00100_anathema_h_wpn
+    Info_3:
+      Name: act/material/mat_m_00100_anathema_h_base
+      Dependencies:
+        Dependency_0: single/act/common/texture/matcap/tex_matcap_toon_1
+        Dependency_1: act/act_00100
+        Dependency_2: single/act/common/texture/matcap/tex_matcap_metal_1
+        Dependency_3: single/act/common/texture/bayerdithermatrix
+        Dependency_4: act/act_00099_00100_anathema
+    Info_4:
+      Name: single/act/common/effect/texture/ef_tx_shockwave
+      Dependencies: {}
+    Info_5:
+      Name: single/act/common/texture/matcap/tex_matcap_metal_1
+      Dependencies: {}
+    Info_6:
+      Name: single/act/common/texture/bayerdithermatrix
+      Dependencies: {}
+    Info_7:
+      Name: act/act_00099_00100_anathema
+      Dependencies:
+        Dependency_0: act/act_00100
+    Info_8:
+      Name: act/material/mat_m_00100_anathema_h_wpn
+      Dependencies:
+        Dependency_0: single/act/common/texture/matcap/tex_matcap_toon_1
+        Dependency_1: act/act_00100
+        Dependency_2: single/act/common/texture/matcap/tex_matcap_metal_1
+        Dependency_3: single/act/common/texture/bayerdithermatrix
+    Info_9:
+      Name: act/act_00480
+      Dependencies:
+        Dependency_0: act/act_00479_00480_ion
+        Dependency_1: act/material/mat_m_00480_ion_h_base
+        Dependency_2: act/material/mat_m_00480_ion_h_alpha
+    Info_10:
+      Name: act/act_00479_00480_ion
+      Dependencies: {}
+    Info_11:
+      Name: act/material/mat_m_00480_ion_h_base
+      Dependencies:
+        Dependency_0: single/act/common/texture/matcap/tex_matcap_toon_1
+        Dependency_1: single/act/common/texture/matcap/tex_matcap_metal_1
+        Dependency_2: single/act/common/texture/bayerdithermatrix
+        Dependency_3: act/act_00479_00480_ion
+    Info_12:
+      Name: act/material/mat_m_00480_ion_h_alpha
+      Dependencies:
+        Dependency_0: single/act/common/texture/bayerdithermatrix
+        Dependency_1: act/act_00479_00480_ion
+    Info_13:
+      Name: nightsky.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: daysky.unity3d
+      Dependencies: {}

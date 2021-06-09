@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1328069411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 980dc36cec4dde804f66478c393500f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c99c86a43ad817b2cb7f65458ae090
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/chara_03/Material/M_00480_ion_H_Base.mat
+Dependencies:
+- D:/unity project/New game/Assets/StreamingAssets/single/act/common/texture/matcap/tex_matcap_toon_1
+- D:/unity project/New game/Assets/StreamingAssets/single/act/common/texture/matcap/tex_matcap_metal_1
+- D:/unity project/New game/Assets/StreamingAssets/single/act/common/texture/bayerdithermatrix
+- D:/unity project/New game/Assets/StreamingAssets/act/act_00479_00480_ion

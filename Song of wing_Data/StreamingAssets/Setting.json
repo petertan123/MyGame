@@ -1,0 +1,12 @@
+{
+	"settingList": [
+		{
+			"title": "keyIntro",
+			"content": "方向键：前后左右移动\n鼠标左键：连击\n按住右键:调整视野\n 1、2、3、c:技能\n p：打开背包"
+		},
+		{
+			"title": "help",
+			"content": "本人制作的一个二次元RPG游戏demo，希望大家能喜欢~"
+		}		
+	]
+}

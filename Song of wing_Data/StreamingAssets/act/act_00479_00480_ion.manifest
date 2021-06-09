@@ -1,0 +1,87 @@
+ManifestFileVersion: 0
+CRC: 722857096
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5319ad2c5725571dc57b625309126cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 113be61cad55fb8236a2a79f0987a2af
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 93a8abefe80a64f36a09faca87ec6956, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01cf1e9ad0f9b7f4282a132692866554, type: 3}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Material/Ef_mt_00480_addmul.mat
+- Assets/chara_03/Unique/00479_00480_ion/Motion/AS_00480_ion_backward.anim
+- Assets/chara_03/Unique/00479_00480_ion/Motion/AS_00480_ion_skill_Cam_01.anim
+- Assets/chara_03/Unique/00479_00480_ion/Motion/AS_00480_ion_attack_04.anim
+- Assets/chara_03/Unique/00479_00480_ion/Motion/AS_00480_ion_skill.anim
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Texture/Ef_tx_00480.tga
+- Assets/chara_03/Unique/00479_00480_ion/Texture/TEX_00480_ion_H_M.tga
+- Assets/chara_03/Unique/00479_00480_ion/Motion/AS_00480_ion_dying.anim
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Mesh/Ef_ms_00480_flower.fbx
+- Assets/chara_03/Unique/00479_00480_ion/Motion/AS_00480_ion_attack_02.anim
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Prefab/Ef_00480_skill_BG.prefab
+- Assets/chara_03/Unique/00479_00480_ion/Animator/AC2_ion.controller
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Texture/Ef_tx_00480_trail.tga
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Mesh/Ef_ms_00480_BarrelNoise.fbx
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Animation/Ef_am_00480_beamBack.anim
+- Assets/chara_03/Unique/00479_00480_ion/Motion/AS_00480_ion_move_l.anim
+- Assets/chara_03/Unique/00479_00480_ion/Motion/AS_00480_ion_damage.anim
+- Assets/chara_03/Unique/00479_00480_ion/Texture/TEX_00480_ion_H_D.tga
+- Assets/chara_03/Unique/00479_00480_ion/Motion/AS_00480_ion_move_u.anim
+- Assets/chara_03/Unique/00479_00480_ion/Motion/AS_00480_ion_forward.anim
+- Assets/chara_03/Unique/00479_00480_ion/Motion/AS_00480_ion_idle_01.anim
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Prefab/Ef_00480_atk.prefab
+- Assets/chara_03/Unique/00479_00480_ion/Motion/AS_00480_ion_move_d.anim
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Prefab/Ef_00480_skill_barrel.prefab
+- Assets/chara_03/Unique/00479_00480_ion/Texture/TEX_00480_ion_Eyes_H_D.tga
+- Assets/chara_03/Unique/00479_00480_ion/Motion/AS_00480_ion_move_r.anim
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Mesh/Ef_ms_00480_wave.fbx
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Material/Ef_mt_00480_trail_addmul.mat
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Mesh/Ef_ms_00480_Box.fbx
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Mesh/Ef_ms_00480_Barrel.fbx
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Material/Ef_mt_00480_alpha.mat
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Mesh/Ef_ms_00480_wind.fbx
+- Assets/chara_03/Unique/00479_00480_ion/Motion/AS_00480_ion_ac.anim
+- Assets/chara_03/Unique/00479_00480_ion/Motion/AS_00480_ion_attack_01.anim
+- Assets/chara_03/Unique/00479_00480_ion/Prefab/ACT_ion_skill_Cam.prefab
+- Assets/chara_03/Unique/00479_00480_ion/Animator/AC_ion_skill_Cam.controller
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Animation/Ef_00480_skill_beam.controller
+- Assets/chara_03/Unique/00479_00480_ion/Texture/TEX_00480_ion_Mouth_H_D.tga
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Prefab/Ef_00480_skill_charge.prefab
+- Assets/chara_03/Unique/00479_00480_ion/Motion/AS_00480_ion_attack_03.anim
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Prefab/Ef_00480_skill_Chsakura.prefab
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Prefab/Ef_00480_skill_sakura_hand.prefab
+- Assets/chara_03/Unique/00479_00480_ion/Effect/Prefab/Ef_00480_skill_sakura.prefab
+- Assets/chara_03/Unique/00479_00480_ion/Texture/TEX_00480_ion_H_A.tga
+Dependencies: []

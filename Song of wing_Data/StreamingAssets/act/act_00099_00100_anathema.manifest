@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 3347829376
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1c4a5c55206469f1d18c391cbb939ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d41a836c7233c8151f9b78acebe006a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14080482134c4c444a06ea97483285dd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ccd0954b5fc1ab4c879c2b8e8deccac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 314821a550404bf4c9a891c5652e31b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7744e38df1746024e90268e34dbe146a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 93a8abefe80a64f36a09faca87ec6956, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/chara_01/Unique/00099_00100_anathema/Motion/AS_00100_anathema_skill_Cam_01.anim
+- Assets/chara_01/Unique/00099_00100_anathema/Motion/AS_00100_anathema_apose.anim
+- Assets/chara_01/Unique/00099_00100_anathema/Animator/PlayerAnima.controller
+- Assets/chara_01/Unique/00099_00100_anathema/Texture/TEX_00100_anathema_Mouth_H_D.tga
+- Assets/chara_01/Unique/00099_00100_anathema/Motion/AS_00100_anathema_attack_01.anim
+- Assets/chara_01/Unique/00099_00100_anathema/Effect/Material/Ef_mt_00100_add.mat
+- Assets/chara_01/Unique/00099_00100_anathema/Effect/Animation/Ef_aura_anim.anim
+- Assets/chara_01/Unique/00099_00100_anathema/Motion/AS_00100_anathema_attack_03.anim
+- Assets/chara_01/Unique/00099_00100_anathema/Effect/Texture/Ef_tx_00100_atk.tga
+- Assets/chara_01/Unique/00099_00100_anathema/Effect/Mesh/Ef_ms_bara.fbx
+- Assets/chara_01/Unique/00099_00100_anathema/Effect/Texture/Ef_tx_00100.tga
+- Assets/chara_01/Unique/00099_00100_anathema/Motion/AS_00100_anathema_idle_01.anim
+- Assets/chara_01/Unique/00099_00100_anathema/Effect/Texture/Materials/Ef_tx_00100_atk.mat
+- Assets/chara_01/Unique/00099_00100_anathema/Effect/Animation/Ef_00100_skill_Aura.controller
+- Assets/chara_01/Unique/00099_00100_anathema/Motion/AS_00100_anathema_skill_Cam_02.anim
+- Assets/chara_01/Unique/00099_00100_anathema/Effect/Material/Ef_mt_00100_atk_multy.mat
+- Assets/chara_01/Unique/00099_00100_anathema/Prefab/ACT_anathema_skill_Cam.prefab
+- Assets/chara_01/Unique/00099_00100_anathema/Animator/AC_anathema_skill_Cam.controller
+- Assets/chara_01/Unique/00099_00100_anathema/Motion/AS_00100_anathema_attack_02.anim
+- Assets/chara_01/Unique/00099_00100_anathema/Motion/AS_00100_anathema_skill_Cam_03.anim
+- Assets/chara_01/Unique/00099_00100_anathema/Motion/AS_00100_anathema_skill.anim
+- Assets/chara_01/Unique/00099_00100_anathema/Effect/Material/Ef_mt_00100_blend.mat
+- Assets/chara_01/Unique/00099_00100_anathema/Animator/AC2_anathema.controller
+- Assets/chara_01/Unique/00099_00100_anathema/Effect/Material/Ef_mt_00100_multy.mat
+- Assets/chara_01/Unique/00099_00100_anathema/Texture/TEX_00100_anathema_Eyes_H_D.tga
+Dependencies:
+- D:/unity project/New game/Assets/StreamingAssets/act/act_00100

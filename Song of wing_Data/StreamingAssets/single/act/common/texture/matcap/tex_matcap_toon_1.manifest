@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2065226717
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9297e96bfc68527ccc5e3321a16021a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ed26e3ad9f6be9c24f85f5f5b54339d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/chara_01/ACTCommon/Texture/MATCAP/TEX_Matcap_Toon_1.tga
+Dependencies: []

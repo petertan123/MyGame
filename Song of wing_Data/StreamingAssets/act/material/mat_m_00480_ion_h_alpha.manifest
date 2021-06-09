@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3474433208
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6edfb172bb8bc88df929667f1b8e642d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c99c86a43ad817b2cb7f65458ae090
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/chara_03/Material/M_00480_ion_H_Alpha.mat
+Dependencies:
+- D:/unity project/New game/Assets/StreamingAssets/single/act/common/texture/bayerdithermatrix
+- D:/unity project/New game/Assets/StreamingAssets/act/act_00479_00480_ion
